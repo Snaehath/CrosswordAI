@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Snaehath.github.io/AI-crossword",
+  "homepage": "https://Snaehath.github.io/CrosseordAI",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
