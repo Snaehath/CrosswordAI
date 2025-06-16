@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Crossword Generator",
+  "description": "A web application that uses the Gemini API to generate and display interactive crossword puzzles based on general knowledge.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
